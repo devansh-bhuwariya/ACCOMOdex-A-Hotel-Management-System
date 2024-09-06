@@ -1,11 +1,10 @@
 # ACCOMOdex - A Hotel Management System
-<div align='center'><img style="width:30%" src='image1.png'/></div>
+<div align='center'><img style="width:30%" src='![image](https://github.com/user-attachments/assets/5250e8c2-85bf-4ba8-83cc-2a47976df09d)'/></div>
 
 ## About the Project
 
 This **Hotel Management System** is a comprehensive Java-based application that facilitates the efficient management of hotel operations. From booking rooms and managing customer data to handling staff details and generating bills, this system simplifies hotel management tasks.
 
-👉 **Live Demo:** *Link to your project or GitHub Pages if available*
 
 ### Built with:
 - **Java Swing** - For the user interface.
