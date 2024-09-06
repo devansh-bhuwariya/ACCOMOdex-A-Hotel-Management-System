@@ -22,9 +22,13 @@ This **Hotel Management System** is a comprehensive Java-based application that 
 
 ## Screenshots of the Project 📸
 
-### 1. **Main Menu**
+### 1. **Dashboard**
 <div align='center'>
-<img src='image2.png' alt='Main Menu'/>
+<img src='(https://github.com/user-attachments/assets/e9ed4032-30e2-4dc5-bccc-79c2d7884fca)' alt='Main Menu'/>
+</div>
+
+<div align='center'>
+<img src='https://github.com/user-attachments/assets/85131e3a-31f1-452c-8f70-a87260243ef7' alt='Main Menu'/>
 </div>
 
 ### 2. **Room Booking Interface**
