@@ -1,5 +1,5 @@
 # ACCOMOdex - A Hotel Management System
-<div align='center'><img style="width:30%" src='![image](https://github.com/user-attachments/assets/5250e8c2-85bf-4ba8-83cc-2a47976df09d)'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/5250e8c2-85bf-4ba8-83cc-2a47976df09d'/></div>
 
 ## About the Project
 
