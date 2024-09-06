@@ -3,7 +3,7 @@
 
 ## About the Project
 
-The **Hotel Management System** is a comprehensive Java-based application that facilitates the efficient management of hotel operations. From booking rooms and managing customer data to handling staff details and generating bills, this system simplifies hotel management tasks.
+This **Hotel Management System** is a comprehensive Java-based application that facilitates the efficient management of hotel operations. From booking rooms and managing customer data to handling staff details and generating bills, this system simplifies hotel management tasks.
 
 👉 **Live Demo:** *Link to your project or GitHub Pages if available*
 
