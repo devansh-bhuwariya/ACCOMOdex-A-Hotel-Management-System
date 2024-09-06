@@ -1,4 +1,4 @@
-# Hotel Management System
+# ACCOMOdex - A Hotel Management System
 <div align='center'><img style="width:30%" src='image1.png'/></div>
 
 ## About the Project
